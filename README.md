@@ -1,6 +1,9 @@
 
 # VaccinateCenterApi
 공공데이터활용지원센터_코로나19 예방접종센터 조회서비스
+# data 
+1)예방접종 센터 정보를 가져오는 api 입니다.
+2)예방접종 센터의 주소 , 장소 시,군,구 , zipcode data 를 가져옵니다.
 <img width="692" alt="스크린샷 2021-07-22 오전 11 19 01" src="https://user-images.githubusercontent.com/69393030/126582021-a30f52cc-780a-4bb1-915d-daa1e74c8672.png">
 # 사용법
 <img width="397" alt="스크린샷 2021-07-22 오전 11 20 19" src="https://user-images.githubusercontent.com/69393030/126582081-e4a89ddd-fd92-45a3-8476-2a016f38275e.png">
